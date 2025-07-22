@@ -1,4 +1,4 @@
-# 🔐 File Permissions Flowchart & chmod Task
+# 🔐 File Permissions Flowchart 
 
 This repository demonstrates how to understand Linux file permissions and how to use the `chmod` command to apply specific access rights to a Python file.
 
